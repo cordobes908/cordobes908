@@ -1,0 +1,7 @@
+{
+  "name": "VoxCast Creator",
+  "description": "Plataforma de creación de podcasts actuados con IA y estudio en vivo.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
